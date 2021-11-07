@@ -1,0 +1,25 @@
+{
+  "comment": "This is an auto-generated file, it keeps track of whats been built. This is a local file, don't store this in version control.",
+  "packages": {
+    "utils/package-bundler#build": {
+      "lastModified": 1636299885006.097,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/lambda-gq-resolver#build": {
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/common#build": {
+      "lastModified": 1636301307710.5828,
+      "status": "succeeded",
+      "haveCheckedForRerun": true,
+      "rerun": false,
+      "command": "build"
+    }
+  }
+}

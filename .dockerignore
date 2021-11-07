@@ -1,0 +1,20 @@
+# ToDo: should be able to do this but it doesn't work with cdk
+# *
+# !./yarn.lock
+# !./.npmrc
+# !./package.json
+# !./packages/web-app/package.json
+# !./packages/ui-library/package.json
+# !./packages/styles/package.json
+# !./packages/web-app/.next
+# !./packages/web-app/next.config.js
+# !./packages/web-app/public
+# !./packages/ui-library/dist
+# !./deploy-config/*
+# !./packages/aws-config-helper/package.json
+
+node_modules
+**/node_modules
+
+cdk*
+# ./packages/cdk-app
